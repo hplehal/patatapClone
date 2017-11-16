@@ -1,17 +1,15 @@
 {
   "name": "patatapclone",
   "version": "1.0.0",
+  "description": "it is a patatap clone",
   "main": "app.js",
-  "author": "tejlehal",
-  "license": "MIT",
-  "dependencies": {
-    "express": "^4.16.2",
-    "html": "^1.0.0"
-  },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tejlehal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
   },
   "engines": {
     "node": "8.9.1"
